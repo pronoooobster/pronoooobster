@@ -4,6 +4,7 @@
 - 📫 How to reach me: email: demch.andrew@gmail.com
                       reddit: u/Pronoooobster
                       twitter: @andrewde89
+                      LinkedIn: linkedin.com/in/andrewdemch
 
 <!---
 pronoooobster/pronoooobster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
