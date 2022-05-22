@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pronoooobster
-- 👀 I’m interested in Software Dev | GameDev
-- 🌱 I’m currently learning C++, C#
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning ML, systems desighn, algorithms
 - 📫 How to reach me: email: demch.andrew@gmail.com
                       reddit: u/Pronoooobster
                       twitter: @andrewde89
