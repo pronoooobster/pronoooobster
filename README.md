@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andrew Demchenko @pronoooobster
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ML, systems desighn, algorithms
 - 📫 How to reach me: email: demch.andrew@gmail.com
                       reddit: u/Pronoooobster
                       twitter: @andrewde89
