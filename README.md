@@ -5,11 +5,11 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andrewdemch#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andrewdemch#gh-dark-mode-only)
+[https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true](https://www.linkedin.com/in/andrewdemch#gh-light-mode-only)
+[https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true](https://www.linkedin.com/in/andrewdemch#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/andrew.demch#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/andrew.demch#gh-dark-mode-only)
+[https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png?raw=true](https://www.instagram.com/andrew.demch#gh-light-mode-only)
+[https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png?raw=true](https://www.instagram.com/andrew.demch#gh-dark-mode-only)
 
 ### Languages and Tools:
 
