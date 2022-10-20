@@ -32,9 +32,9 @@
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoooobster&count_private=true&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoooobster&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoooobster&theme=transparent&hide_border=true&exclude_repo=SmartPot,Selectio)
 
-![Andrew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pronoooobster&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Andrew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndrewDe&theme=transparent&hide_border=true)
 
 
 [website]: https://codeSTACKr.com
