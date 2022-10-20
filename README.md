@@ -10,8 +10,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
+<br />
+<br />
+
+
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
@@ -27,11 +31,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pronoooobster&show_icons=true&hide_border=false&theme=transparent" />
-
-</details>
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoooobster&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
