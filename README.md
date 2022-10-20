@@ -32,7 +32,7 @@
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoooobster&count_private=true&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoooobster&theme=transparent&hide_border=true&exclude_repo=SmartPot,Selectio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoooobster&theme=transparent&hide_border=true&exclude_repo=SmartPot,Selectio&layout=compact)
 
 ![Andrew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndrewDe&theme=transparent&hide_border=true)
 
