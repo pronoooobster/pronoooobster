@@ -1,24 +1,22 @@
-- 👋 Hi, I’m Andrew Demchenko @pronoooobster
-- 👀 I’m interested in Software Engineering
-- 📫 How to reach me: email: demch.andrew@gmail.com
+- ### 👋 Hi, I’m Andrew Demchenko @pronoooobster
+- ## 👀 I’m interested in Software Engineering
+- ## 📫 How to reach me: email: demch.andrew@gmail.com
                       LinkedIn: linkedin.com/in/andrewdemch
 
 ### Connect with me:
 
-[<img align="left" alt="Inst" width="26px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" style="padding-right:10px;" />](https://www.linkedin.com/in/andrewdemch)
-[<img align="left" alt="Inst" width="26px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png?raw=true" style="padding-right:10px;" />](https://www.instagram.com/andrew.demch)
-
-### Languages and Tools:
-
-[<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Inst" width="40px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" style="padding-right:10px;" />](https://www.linkedin.com/in/andrewdemch)
+[<img align="left" alt="Inst" width="40px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png?raw=true" style="padding-right:10px;" />](https://www.instagram.com/andrew.demch)
 <br />
 <br />
 
 ---
 
+### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
