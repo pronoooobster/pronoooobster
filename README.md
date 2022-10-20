@@ -5,11 +5,8 @@
 
 ### Connect with me:
 
-[https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true](https://www.linkedin.com/in/andrewdemch#gh-light-mode-only)
-[https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true](https://www.linkedin.com/in/andrewdemch#gh-dark-mode-only)
-&nbsp;&nbsp;
-[https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png?raw=true](https://www.instagram.com/andrew.demch#gh-light-mode-only)
-[https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png?raw=true](https://www.instagram.com/andrew.demch#gh-dark-mode-only)
+[<img align="left" alt="Inst" width="26px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" style="padding-right:10px;" />](https://www.linkedin.com/in/andrewdemch)
+[<img align="left" alt="Inst" width="26px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png?raw=true" style="padding-right:10px;" />](https://www.instagram.com/andrew.demch)
 
 ### Languages and Tools:
 
