@@ -30,6 +30,6 @@
 ---
 
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoooobster&count_private=true&show_icons=true&theme=transparent&hide_border=true&card_width=1000)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoooobster&count_private=true&show_icons=true&theme=transparent&hide_border=true&card_width=600)
 
 [website]: https://codeSTACKr.com
