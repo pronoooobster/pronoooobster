@@ -1,6 +1,6 @@
 - ### 👋 Hi, I’m Andrew Demchenko @pronoooobster
 - ## 👀 I’m interested in Software Engineering
-- ## 📫 How to reach me: email: demch.andrew@gmail.com | LinkedIn: linkedin.com/in/andrewdemch
+- ## 📫 How to reach me: email: demch.andrew@gmail.com
 
 ### Connect with me:
 
