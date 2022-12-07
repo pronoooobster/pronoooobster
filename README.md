@@ -4,8 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Inst" width="40px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png?raw=true" style="padding-right:10px;" />](https://www.linkedin.com/in/andrewdemch)
-[<img align="left" alt="Inst" width="40px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/instagram.png?raw=true" style="padding-right:10px;" />](https://www.instagram.com/andrew.demch)
+[<img align="left" alt="Inst" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/andrewdemch)
 <br />
 <br />
 
